@@ -26,6 +26,7 @@ function App() {
           <div class="row">
             <h3 class="text-center mx-auto">HELLO WORLD</h3>
             <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id fugit unde perspiciatis doloremque doloribus assumenda voluptatibus error, excepturi labore mollitia quas modi commodi aut voluptatem ea beatae iure vitae animi.</p>
+            <p>I get the change you have made</p>
           </div>
         </div>) 
 }
